@@ -1,2 +1,1 @@
-# group-24
-gourp 24
+# Hello World from Readme.md file
